@@ -1,0 +1,41 @@
+chicago,illinois
+los angeles,california
+miami,florida
+new york city,new york
+seattle,washington
+atlanta,georgia
+las vegas,nevada
+san diego,california
+bay area,california
+boston,massachusetts
+houston,texas
+austin,texas
+new orleans,louisiana
+long island,new york
+brooklyn,new york
+detroit,michigan
+philly,pennsylvania
+buffalo,new york
+san francisco,california
+orlando,florida
+louisville,kentucky
+philadelphia,pennsylvania
+cleveland,ohio
+san antonio,texas
+cincinnati,ohio
+st. louis,missouri
+memphis,tennessee
+denver,colorado
+lexington,kentucky
+omaha,nebraska
+wichita,kansas
+indianapolis,indiana
+raleigh,north carolina
+long beach,california
+dallas,texas
+tucson,arizona
+sacramento,california
+honolulu,hawaii
+minneapolis,minnesota
+phoenix,arizona
+salt like city,utah
